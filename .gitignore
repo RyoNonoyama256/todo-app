@@ -1,0 +1,12 @@
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
+
+# 環境変数（シークレット）
+.env
